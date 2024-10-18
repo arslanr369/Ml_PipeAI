@@ -1,0 +1,13 @@
+prefix=D:/full/full/Ml_PipeAI/env/Library
+exec_prefix=D:/full/full/Ml_PipeAI/env/Library
+libdir=D:/full/full/Ml_PipeAI/env/Library/lib
+sharedlibdir=D:/full/full/Ml_PipeAI/env/Library/lib
+includedir=D:/full/full/Ml_PipeAI/env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
