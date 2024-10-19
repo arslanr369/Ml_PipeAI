@@ -1,0 +1,6 @@
+[2024-10-19 16:30:24,690] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-10-19 16:30:24,768] 97 werkzeug - INFO -  * Debugger PIN: 141-773-361
+[2024-10-19 16:31:24,887] 8 root - INFO - We are testing our second method of logging
+[2024-10-19 16:31:24,887] 97 werkzeug - INFO - 127.0.0.1 - - [19/Oct/2024 16:31:24] "GET / HTTP/1.1" 200 -
+[2024-10-19 16:31:27,604] 97 werkzeug - INFO - 127.0.0.1 - - [19/Oct/2024 16:31:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-10-19 16:33:47,351] 97 werkzeug - INFO -  * Detected change in 'D:\\full\\full\\ml_pipeai\\src\\exception.py', reloading
