@@ -1,0 +1,5 @@
+[2024-10-20 10:41:57,712] 15 root - INFO - Data ingestion started
+[2024-10-20 10:41:57,712] 17 root - INFO - Reading data using pandas from local system
+[2024-10-20 10:41:57,882] 28 root - INFO - Data reading completed
+[2024-10-20 10:41:58,314] 33 root - INFO - Data saved to raw data path
+[2024-10-20 10:41:58,832] 41 root - INFO - Data ingestion completed

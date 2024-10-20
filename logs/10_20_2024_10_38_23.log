@@ -1,0 +1,3 @@
+[2024-10-20 10:38:28,395] 15 root - INFO - Data ingestion started
+[2024-10-20 10:38:28,395] 17 root - INFO - Reading data using pandas from local system
+[2024-10-20 10:38:28,395] 28 root - ERROR - File not found: D:\full\full\Ml_PipeAI\src\notebook\data\income_clean.csv

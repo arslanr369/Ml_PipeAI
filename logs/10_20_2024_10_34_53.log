@@ -1,0 +1,3 @@
+[2024-10-20 10:34:57,852] 15 root - INFO - Data ingestion started
+[2024-10-20 10:34:57,852] 17 root - INFO - Reading data using pandas from local system
+[2024-10-20 10:34:57,875] 40 root - ERROR - File not found: notebook\data\income_clean.csv

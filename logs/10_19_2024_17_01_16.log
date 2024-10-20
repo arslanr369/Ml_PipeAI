@@ -1,0 +1,4 @@
+[2024-10-19 17:01:16,977] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-10-19 17:01:17,069] 97 werkzeug - INFO -  * Debugger PIN: 141-773-361
+[2024-10-19 17:01:25,352] 16 root - INFO - Error occurred in Python script: [D:\full\full\ml_pipeai\app.py], line number: [11], error message: [We are testing our custom exception handling]
+[2024-10-19 17:01:25,352] 97 werkzeug - INFO - 127.0.0.1 - - [19/Oct/2024 17:01:25] "GET / HTTP/1.1" 200 -
